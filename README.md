@@ -1,4 +1,4 @@
-# <img src="assets/herl_logo.png" alt="PASTL logo" height="100"><br>HERL (Heritability Estimation by Representation Learning)
+# <img src="assets/herl_logo.png" alt="PASTL logo" height="100"><br>HERL: Heritability Estimation by Representation Learning
 
 Deep generative modelling and representation learning of high-dimensional 
 genotype data for heritability estimation using a categorical variational 
